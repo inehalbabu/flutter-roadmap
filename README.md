@@ -138,8 +138,8 @@ Special thanks to the Flutter community and all the contributors who have made t
 
 For any questions or feedback, you can reach out to the project maintainers:
 
-- [Your Name](mailto:your.email@example.com)
-- [GitHub Profile](https://github.com/yourusername)
+- [Nehal Babu](mailto:inehalbabu@gmail.com)
+- [GitHub Profile](https://github.com/inehalbabu)
 
 Happy coding!
 
