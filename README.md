@@ -56,6 +56,7 @@ State management is crucial for building interactive applications. Explore vario
 - **Riverpod**
 - **Bloc (Business Logic Component)**
 - **Redux**
+- **Getx**
 
 ## Networking and APIs
 
