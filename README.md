@@ -16,6 +16,10 @@ Welcome to the Flutter Development Roadmap! This guide aims to provide a structu
 10. [Testing and Debugging](#testing-and-debugging)
 11. [Deployment and Maintenance](#deployment-and-maintenance)
 12. [Additional Resources](#additional-resources)
+13. [Contributing](#contributing)
+14. [License](#license)
+15. [Acknowledgements](#acknowledgements)
+16. [Contact](#contact)
 
 ## Introduction
 
@@ -117,12 +121,6 @@ Get your app ready for release and maintain it post-launch.
 - **Community and Support**: Join the [Flutter Community](https://flutter.dev/community)
 - **Books**: Consider reading "Flutter in Action" by Eric Windmill or "Beginning Flutter: A Hands-On Guide to App Development" by Marco L. Napoli
 
----
-
-This roadmap is a comprehensive guide to help you navigate the world of Flutter development. Remember, practice and consistency are key to mastering Flutter. Happy coding!
-
----
-
 ## Contributing
 
 Contributions are always welcome! If you have any suggestions for improvements or want to add new sections, feel free to open an issue or submit a pull request. Please make sure to follow the contribution guidelines.
@@ -141,6 +139,7 @@ For any questions or feedback, you can reach out to the project maintainers:
 
 - [Nehal Babu](mailto:inehalbabu@gmail.com)
 - [GitHub Profile](https://github.com/inehalbabu)
+- [Linkedin](https://www.linkedin.com/in/inehalbabu/)
 
 Happy coding!
 
